@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wahib Irawan
-- 👀 UI Design & Frontend Web Development
+- 👀 UI/UX Designer
 - 🌱 I’m currently learning Tailwind CSS
 - 📫 Say hi on wahibuix@gmail.com
 
