@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Wahib Irawan
-- 👀 UI/UX Designer
-- 🌱 I’m currently learning Tailwind CSS
-- 📫 Say hi on wahibuix@gmail.com
+- 👋 Hi there, Wahib Irawan is here!
+- 👀 I'm a UI/UX Designer based in East Java, Indonesia
+- 🌱 2 years of experience in Figma
+- 😎 Loving minimalism, clean and modern design
+- 🧬 Web3 / Crypto enthusiast
+- 📫 Feel free to message: wahibuix@gmail.com
 
 <!---
 wahibirawan/wahibirawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
