@@ -1,6 +1,6 @@
 - 👋 Hi there, Wahib Irawan is here!
 - 👀 I'm a UI/UX Designer based in East Java, Indonesia
-- 🌱 2 years of experience in Figma
+- 🌱 2 years of experience
 - 😎 Loving minimalism, clean and modern design
 - 🧬 Web3 / Crypto enthusiast
 - 📫 Feel free to message: wahibuix@gmail.com
